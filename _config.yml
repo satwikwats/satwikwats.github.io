@@ -14,20 +14,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: website
-author: "Christine Cai"
-email: "christine.cai@princeton.edu"
+author: "Pallavi Wats"
+email: "watspallavi@gmail.com"
 description: personal website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://christinecai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pallaviwats.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # ------------------------------------------------------------------------------
 # Custom settings
 # ------------------------------------------------------------------------------
 # Useful links
-github_username: "christinecai"
-orcid: "0000-0002-6978-7644"
-twitter_username: "Christine_Cai27"
-linkedin_id: "christinecai"
+github_username: "pallaviwats"
+#orcid: "0000-0002-6978-7644"
+#twitter_username: "Christine_Cai27"
+#linkedin_id: "christinecai"
 
 # Theme
 # theme: jekyll-theme-potato-hacker                 # Uncomment this
