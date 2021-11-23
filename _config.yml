@@ -40,7 +40,7 @@ theme_switch: on         # Show color switch (on | off)
 blog: off                 # Show blog tag and post list (on | off)
 avatar: on               # Show avatar (on | off)
 avatar_image: "assets/img/pallavi.jpg"
-avatar_description: "Christine Cai"
+avatar_description: "Pallavi Wats"
 highlighter_theme: pastie  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]
