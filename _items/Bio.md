@@ -8,7 +8,7 @@ I am Pallavi Wats, currently a Research Assistant <font color="IndianRed"></font
 	
 My research interests lie in <font color="IndianRed">applied microeconomics</font> and political economy <font color="IndianRed"></font>. I am particularly interested in ideational politics, pollution and health, governance and returns to education.
 	
-I completed my Master's degree in Economics from Narsee Monjee Institute of Management Studies in 2020. Post my master's degree, I started working as a full time <font color="IndianRed">research assistant</font> for <a href="https://sites.google.com/virginia.edu/tarunjain/home"> Professor Tarun Jain</a> at the <font color="IndianRed">Indian Institute of Management Ahmedabad</font>. 
+I completed my Master's degree in Economics from Narsee Monjee Institute of Management Studies in 2020, and my Bachelor's in Economics from Miranda House (University of Delhi). Post my master's degree, I started working as a full time <font color="IndianRed">research assistant</font> for <a href="https://sites.google.com/virginia.edu/tarunjain/home"> Professor Tarun Jain</a> at the <font color="IndianRed">Indian Institute of Management Ahmedabad</font>. 
 	
 My <font color="IndianRed">CV</font> can be viewed/downloaded <a href="/assets/pdf/PallaviCV.pdf">here</a>.
 	
