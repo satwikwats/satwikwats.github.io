@@ -4,12 +4,12 @@ title: Bio
 description: Bio
 ---
 
-I am Christine Cai(-square distributed), a fourth-year <font color="IndianRed">Ph.D. Student in Economics</font> at <font color="IndianRed">Princeton University</font>.
+I am Pallavi Wats, a Research Assistant <font color="IndianRed">s</font> at <font color="IndianRed"> Indian Institute of Management Ahmedabad </font>.
 	
-My research interests lie in <font color="IndianRed">applied microeconomics</font> and span <font color="IndianRed">labor, public, urban, education, and health economics</font>. I am particularly interested in issues related to segregation, migrations, educational and racial inequalities, and social mobility.
+My research interests lie in <font color="IndianRed">applied microeconomics</font> and political economy <font color="IndianRed"></font>. I am particularly interested in ideational politics, pollution and health, governance and returns to education.
 	
-Prior to the start of my Ph.D. program, I worked as a full-time <font color="IndianRed">research assistant</font> for <a href="http://faculty.chicagobooth.edu/rebecca.dizon-ross/">Professor Rebecca Dizon-Ross</a> at the University of <font color="IndianRed">Chicago Booth</font> School of Business, and for <a href="https://www.rubendurante.net">Professor Ruben Durante</a> at <font color="IndianRed">Sciences Po Paris</font>.
+I completed my Master's degree in Economics from Narsee Monjee Institute of Management Studies in 2020. Post my master's degree, I started working as a full time <font color="IndianRed">research assistant</font> for <a href="https://sites.google.com/virginia.edu/tarunjain/home"> Professor Tarun Jain</a> at the <font color="IndianRed">Indian Institute of Management Ahmedabad</font>. 
 	
-My <font color="IndianRed">CV</font> can be viewed/downloaded <a href="/assets/pdf/Christine_Cai_CV.pdf">here</a>.
+My <font color="IndianRed">CV</font> can be viewed/downloaded <a href="/assets/pdf/PallaviCV.pdf">here</a>.
 	
-Feel free to reach out to me at <a href="mailto:christine.cai@princeton.edu">christine.cai@princeton.edu</a>, or if you happen to visit Princeton, you can drop by office 264 in the Industrial Relations Section (located on the second floor of the Department of Economics building). I am always happy to chat (and/or hit a few ping pong balls!).
+Feel free to reach out to me at <a href="mailto:watspallavi@gmail.com">ashish.econ@gmail.com</a>.
