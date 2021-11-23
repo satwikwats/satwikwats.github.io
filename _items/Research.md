@@ -11,6 +11,7 @@ description: Research
 * Climate Change and Respiratory Drugs (with Chirantan Chatterjee & Ashish Kumar) <button type="button" class="btn btn-xs btn-default">work under progress</button>
 
 
+
 #### Case Study publication
 
 * Malaria Eradication, with Tarun Jain, 2021, IIM Ahmedabad case CMHS0045TEC <button type="button" class="btn btn-xs btn-default"><a href="https://cases.iima.ac.in/index.php/malaria-eradication.html">URL</a></button>
