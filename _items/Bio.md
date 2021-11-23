@@ -12,4 +12,4 @@ I completed my Master's degree in Economics from Narsee Monjee Institute of Mana
 	
 My <font color="IndianRed">CV</font> can be viewed/downloaded <a href="/assets/pdf/PallaviCV.pdf">here</a>.
 	
-Feel free to reach out to me at <a href="mailto:watspallavi@gmail.com">ashish.econ@gmail.com</a>.
+Feel free to reach out to me at <a href="mailto:watspallavi@gmail.com">watspallavi@gmail.com</a>.
