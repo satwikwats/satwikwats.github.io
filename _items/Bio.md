@@ -4,7 +4,7 @@ title: Bio
 description: Bio
 ---
 
-I am Pallavi Wats, a Research Assistant <font color="IndianRed">s</font> at <font color="IndianRed"> Indian Institute of Management Ahmedabad </font>.
+I am Pallavi Wats, a Research Assistant <font color="IndianRed"></font> at <font color="IndianRed"> Indian Institute of Management Ahmedabad </font>.
 	
 My research interests lie in <font color="IndianRed">applied microeconomics</font> and political economy <font color="IndianRed"></font>. I am particularly interested in ideational politics, pollution and health, governance and returns to education.
 	
