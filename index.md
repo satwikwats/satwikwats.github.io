@@ -4,7 +4,7 @@ title: Pallavi Wats
 description: Homepage
 ---
 
-#### Research Assistant at Indian Institute of Management-Ahmedabad
+#### Research Assistant at Indian Institute of Management Ahmedabad
 
 <hr />
 
