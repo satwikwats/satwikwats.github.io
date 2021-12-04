@@ -13,6 +13,5 @@ description: Books
 * <u>Semester(s):</u> Fall 2019 & Spring 2020 
 
 
-#### &nbsp; Non-Fiction
 <hr />
-
+#### &nbsp; Non-Fiction
