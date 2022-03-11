@@ -10,7 +10,7 @@ description: Homepage
 
 <strong></strong>
 
-<hr />
+
 
 
 <u>Research fields:</u>
