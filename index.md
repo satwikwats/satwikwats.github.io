@@ -14,10 +14,10 @@ description: Homepage
 
 
 <u>Research fields:</u>
-* <u>Primary:</u> applied microeconomics, political economy
-* <u>Secondary:</u> health, education, gender
+* <u>Primary:</u> applied microeconomics, empirical IO, political economy
+* <u>Secondary:</u> health, education, institutions
 			
-<u>Main topics of interest:</u> ideational politics, pollution and health, governance, returns to education
+<u>Main topics of interest:</u> institutions, human impacts of air pollution and economics of education
 	
 <u>CV:</u> <a href="/assets/pdf/PallaviCV.pdf">click here</a>
 
