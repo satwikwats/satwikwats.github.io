@@ -13,9 +13,8 @@ description: Homepage
 
 
 
-<u>Research fields:</u>
-* <u>Primary:</u> applied microeconomics, empirical IO, political economy
-* <u>Secondary:</u> health, education, institutions
+<u>Research fields: applied microeconomics, empirical IO, political economy
+
 			
 <u>Main topics of interest:</u> institutions, human impacts of air pollution and economics of education
 	
