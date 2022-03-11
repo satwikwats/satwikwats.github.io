@@ -13,10 +13,10 @@ description: Homepage
 
 
 
-<u>Research fields: applied microeconomics, empirical IO, political economy
+<u>Research fields: Applied Microeconomics, Empirical IO, Political Economy
 
 			
-<u>Main topics of interest:</u> institutions, human impacts of air pollution and economics of education
+<u>Main topics of interest:</u> Institutions, Human Impacts of Air Pollution and Economics of Education
 	
 <u>CV:</u> <a href="/assets/pdf/PallaviCV.pdf">click here</a>
 
