@@ -14,6 +14,8 @@ description: Homepage
 
 
 Research Interests: Applied Microeconomics, Empirical IO, Political Economy
+
+<hr />
 	
 <u>CV:</u> <a href="/assets/pdf/PallaviCV.pdf">click here</a>
 
