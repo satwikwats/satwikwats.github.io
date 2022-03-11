@@ -6,11 +6,11 @@ description: Homepage
 
 #### Research Assistant at Indian Institute of Management Ahmedabad
 
-#<hr />
+<hr />
 
-#<strong>Hello! Welcome to my website!</strong>
+<strong></strong>
 
-#<hr />
+<hr />
 
 
 <u>Research fields:</u>
