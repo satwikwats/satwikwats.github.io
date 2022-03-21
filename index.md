@@ -13,7 +13,7 @@ description: Homepage
 
 
 
-Research Interests: Applied Microeconomics, Empirical IO, Political Economy
+Research Interests: Applied Microeconomics, Industrial Organization, Political Economy
 
 <hr />
 	
