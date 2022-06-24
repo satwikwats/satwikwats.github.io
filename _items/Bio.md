@@ -4,7 +4,7 @@ title: Bio
 description: Bio
 ---
 
-I am Pallavi Wats, currently a Research Assistant <font color="IndianRed"></font> at <font color="IndianRed"> Indian Institute of Management Ahmedabad</font>.
+I am Pallavi Wats, currently a first year PhD student in Economics <font color="IndianRed"></font> at <font color="IndianRed"> University of Virginia </font>.
 	
 My research interests lie in <font color="IndianRed">applied microeconomics</font>, <font color="IndianRed"> industrial organization </font> and <font color="IndianRed">political economy</font>. 
 	
