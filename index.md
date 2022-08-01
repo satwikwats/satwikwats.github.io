@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Pallavi Wats
+title: Satwik Wats
 description: Homepage
 ---
 
-#### PhD Student in Economics at University of Virginia
+#### Undergrad major in Physics and minor in Computer Science at Ashoka University
 
 <hr />
 
@@ -13,12 +13,10 @@ description: Homepage
 
 
 
-Research Interests: Applied Microeconomics, Industrial Organization, Political Economy
+Research Interests: Computational Physics
 
 <hr />
 	
-<u>CV:</u> <a href="/assets/pdf/PallaviCV.pdf">click here</a>
+<u>CV:</u> <a href="/assets/pdf/SatwikCV.pdf">click here</a>
 
-<u>Contact:</u> <a href="mailto:watspallavi@gmail.com">watspallavi@gmail.com</a>
-
-<u>Twitter:</u> <a href="https://twitter.com/WatsPallavi">@WatsPallavi</a>
+<u>Contact:</u> <a href="mailto:watssatwik4@gmail.com">watspallavi@gmail.com</a>
