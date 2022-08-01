@@ -19,4 +19,4 @@ Research Interests: Computational Physics
 	
 <u>CV:</u> <a href="/assets/pdf/SatwikCV.pdf">click here</a>
 
-<u>Contact:</u> <a href="mailto:watssatwik4@gmail.com">watspallavi@gmail.com</a>
+<u>Contact:</u> <a href="mailto:watssatwik4@gmail.com">watssatwik4@gmail.com</a>
