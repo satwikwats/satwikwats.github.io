@@ -4,7 +4,7 @@ title: Satwik Wats
 description: Homepage
 ---
 
-#### Undergrad Major in Physics and Minor in Computer Science at Ashoka University
+#### Physics (major) and Computer Science (minor) at Ashoka University
 
 <hr />
 
