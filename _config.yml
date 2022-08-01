@@ -14,19 +14,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: website
-author: "Pallavi Wats"
-email: "watspallavi@gmail.com"
+author: "Satwik Wats"
+email: "watssatwik4@gmail.com"
 description: personal website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pallaviwats.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://satwikwats.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # ------------------------------------------------------------------------------
 # Custom settings
 # ------------------------------------------------------------------------------
 # Useful links
-github_username: "pallaviwats"
+github_username: "satwikwats"
 #orcid: "0000-0002-6978-7644"
-twitter_username: "WatsPallavi"
+#twitter_username: "WatsPallavi"
 #linkedin_id: "christinecai"
 
 # Theme
@@ -39,15 +39,15 @@ theme_switch: on         # Show color switch (on | off)
 # Extra settings
 blog: off                 # Show blog tag and post list (on | off)
 avatar: on               # Show avatar (on | off)
-avatar_image: "assets/img/pallavi.jpg"
-avatar_description: "Pallavi Wats"
+avatar_image: "assets/img/satwik.jpg"
+avatar_description: "Satwik Wats"
 highlighter_theme: pastie  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]
 toolbar_priority:        # Order of the items in the toolbar (except for blog and home)
   - Bio
   - Research
-  - Teaching
+  - Coursework
 
 # Collections
 collections:
